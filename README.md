@@ -1,6 +1,11 @@
 
 # HedgeHunger: Revolutionizing Waste Food Management on Your Mobile
 
+
+| ![Apple iPhone 11 Pro Max Screenshot 1](https://github.com/galahad42/HedgeHunger/assets/59364507/d0277653-ef59-44ce-ad3c-30341cab1cd8)  | ![Apple iPhone 11 Pro Max Screenshot 2](https://github.com/galahad42/HedgeHunger/assets/59364507/dc215fae-fc59-4595-b5fc-d6e1cda91972) | ![Apple iPhone 11 Pro Max Screenshot 3](https://github.com/galahad42/HedgeHunger/assets/59364507/8b34637a-8ff9-4a66-8657-e1b7b8114724) | ![Apple iPhone 11 Pro Max Screenshot 4](https://github.com/galahad42/HedgeHunger/assets/59364507/a0460002-b74e-41c2-9429-6a489390b59d) |
+|:---:|:---:|:---:|:---:|
+
+
 ### 💾 Problem Statement
 
 Food waste is a major problem that affects both the environment and society. In fact, it is estimated that one-third of all food produced in the world is wasted, which equates to approximately 1.3 billion tons of food per year.
